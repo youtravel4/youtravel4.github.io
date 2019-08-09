@@ -1,0 +1,12 @@
+.footer {
+  margin-top: $xxxl-size;
+  left: 0;
+  bottom: 0;
+  width: auto;
+  background-color: $dark-green;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  padding: $xl-size;
+  font-size: $s-size;   
+}

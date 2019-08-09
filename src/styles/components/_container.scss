@@ -1,0 +1,20 @@
+
+@media (min-width: $desktop-breakpoint) {
+    .container {
+        max-width: 60rem;
+        margin: 0 auto;
+        padding: 0 $xl-size;
+    }
+    
+    .container--header {
+        max-width: 500rem;
+        margin-left: 61.3rem;
+    }
+}
+
+.container {
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: 0 $xl-size;
+}
+

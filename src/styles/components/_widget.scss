@@ -1,0 +1,31 @@
+//Widget
+
+.widget {
+    background: $light-blue;
+    margin-bottom: $xl-size;
+}
+
+.widget__message {
+    color: white;
+    text-align: center;
+    padding: $l-size;
+    border-bottom: 1px solid lighten($off-white, 10%);
+    margin: 0;
+    font-weight: 550; 
+}
+
+// Widget Header
+
+.widget-header {
+    background: white;
+    color: darken($yellow, 20);
+    padding: $m-size;
+    display: flex;
+    justify-content: space-between;
+    max-height: 2.2rem;
+    font-family: 'Caveat Brush';  
+}
+
+.widget-header__title {
+    margin: 0;
+}
