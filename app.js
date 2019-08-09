@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import YouTravel from './components/YouTravel'
+import YouTravel from 'components/YouTravel.js'
 
 import 'normalize.css/normalize.css';
 import './styles/styles.scss';
